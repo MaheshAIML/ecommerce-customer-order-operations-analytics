@@ -140,6 +140,17 @@ Ecommerce-Order-Shipping-Analytics/
     Business_Insights_and_Recommendations.md
   README.md
 ```
+## Tableau Dashboards
+
+### Dashboard 1 — Executive Overview
+![Executive Overview](dashboard/dashboard_1_executive_overview.png)
+
+### Dashboard 2 — Customer & Product Analysis
+![Customer Product Analysis](dashboard/dashboard_2_customer_product.png)
+
+### Dashboard 3 — Operations & Shipping
+![Operations Shipping](dashboard/dashboard_3_operations_shipping.png)
+
 
 ## Conclusion
 This project demonstrates a complete analytics workflow from raw multi-table data through data cleaning, exploratory analysis, customer analysis, operations analysis, SQL, Tableau dashboards, business insights, and recommendations.
