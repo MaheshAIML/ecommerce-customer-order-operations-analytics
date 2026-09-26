@@ -1,0 +1,718 @@
+customer_id,order_count,customer_type,total_spent,name,city,province,gender,age_group
+CUST0001,4,Repeat Customer,2651604,Andi Rahmawati,Semarang,Jawa Tengah,Male,25-34
+CUST0002,1,One-Time Customer,349000,Sari Sembiring,Semarang,Jawa Tengah,Female,18-24
+CUST0003,4,Repeat Customer,1802000,Bella Aprilia,Tangerang,Banten,Female,18-24
+CUST0004,1,One-Time Customer,119000,Shinta Hartono,Semarang,Jawa Tengah,Female,25-34
+CUST0005,4,Repeat Customer,1720644,Maulana Hidayat,Bekasi,Jawa Barat,Male,18-24
+CUST0006,1,One-Time Customer,69000,Nadia Iskandar,Makassar,Sulawesi Selatan,Female,35-44
+CUST0007,3,Repeat Customer,2141148,Ratna Sari,Medan,Sumatera Utara,Female,25-34
+CUST0008,1,One-Time Customer,328000,Yoga Utami,Denpasar,Bali,Male,25-34
+CUST0009,3,Repeat Customer,1740506,Rani Simbolon,Semarang,Jawa Tengah,Female,25-34
+CUST0011,1,One-Time Customer,577000,Putri Sembiring,Balikpapan,Kalimantan Timur,Female,18-24
+CUST0013,5,Repeat Customer,3325479,Fatimah Setiawan,Makassar,Sulawesi Selatan,Female,25-34
+CUST0014,2,Repeat Customer,727000,Hana Halim,Depok,Jawa Barat,Female,35-44
+CUST0015,4,Repeat Customer,1663000,Sari Permata,Medan,Sumatera Utara,Female,35-44
+CUST0017,1,One-Time Customer,526544,Wahyu Tanjung,Surabaya,Jawa Timur,Male,18-24
+CUST0018,1,One-Time Customer,89000,Dion Hutapea,Manado,Sulawesi Utara,Male,25-34
+CUST0019,3,Repeat Customer,1549005,Rina Halim,Malang,Jawa Timur,Female,25-34
+CUST0020,1,One-Time Customer,379339,Joko Saputra,Bandung,Jawa Barat,Male,25-34
+CUST0021,2,Repeat Customer,1034000,Mawar Yulianti,Medan,Sumatera Utara,Female,18-24
+CUST0022,2,Repeat Customer,1633125,Fitri Hasanah,Surabaya,Jawa Timur,Female,25-34
+CUST0024,4,Repeat Customer,2283138,Sri Yulianti,Makassar,Sulawesi Selatan,Female,35-44
+CUST0025,1,One-Time Customer,499000,Adi Halim,Pekanbaru,Riau,Male,18-24
+CUST0026,1,One-Time Customer,805000,Nanda Yulianti,Depok,Jawa Barat,Male,45+
+CUST0027,4,Repeat Customer,1141190,Dewi Kurniawan,Pontianak,Kalimantan Barat,Female,18-24
+CUST0028,3,Repeat Customer,503551,Yusuf Hakim,Pontianak,Kalimantan Barat,Male,35-44
+CUST0029,3,Repeat Customer,689868,Maya Siregar,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0030,2,Repeat Customer,1091363,Siti Yulianti,Pekanbaru,Riau,Female,35-44
+CUST0031,1,One-Time Customer,134229,Shinta Cahyani,Pontianak,Kalimantan Barat,Female,25-34
+CUST0032,1,One-Time Customer,415557,Irfan Permata,Padang,Sumatera Barat,Male,25-34
+CUST0033,3,Repeat Customer,2570857,Rizky Simbolon,Balikpapan,Kalimantan Timur,Male,35-44
+CUST0034,4,Repeat Customer,2733522,Putra Sinaga,Palembang,Sumatera Selatan,Male,25-34
+CUST0035,3,Repeat Customer,1714590,Bambang Lestari,Bogor,Jawa Barat,Male,18-24
+CUST0036,2,Repeat Customer,1210946,Vera Sari,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0037,4,Repeat Customer,1395339,Tika Tanjung,Depok,Jawa Barat,Female,25-34
+CUST0038,1,One-Time Customer,449000,Karina Tanjung,Bekasi,Jawa Barat,Female,25-34
+CUST0040,2,Repeat Customer,476453,Hana Kurniawan,Malang,Jawa Timur,Female,25-34
+CUST0041,1,One-Time Customer,998000,Irfan Saputri,Manado,Sulawesi Utara,Male,25-34
+CUST0042,2,Repeat Customer,965428,Kirana Hidayat,Bogor,Jawa Barat,Female,35-44
+CUST0045,3,Repeat Customer,1461732,Bagus Permata,Bandung,Jawa Barat,Male,18-24
+CUST0046,4,Repeat Customer,2363144,Galih Sari,Malang,Jawa Timur,Male,18-24
+CUST0047,2,Repeat Customer,1331923,Arif Kurniawan,Malang,Jawa Timur,Male,35-44
+CUST0048,2,Repeat Customer,437000,Kirana Wardani,Pekanbaru,Riau,Female,35-44
+CUST0049,1,One-Time Customer,578000,Putra Pohan,Manado,Sulawesi Utara,Male,35-44
+CUST0050,3,Repeat Customer,715016,Risma Yulianti,Padang,Sumatera Barat,Female,25-34
+CUST0051,1,One-Time Customer,229274,Yoga Yulianti,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0052,3,Repeat Customer,1593121,Selvi Utami,Semarang,Jawa Tengah,Female,18-24
+CUST0053,2,Repeat Customer,415000,Indah Rahmawati,Malang,Jawa Timur,Female,25-34
+CUST0055,1,One-Time Customer,334720,Bintang Rahmawati,Bandung,Jawa Barat,Male,25-34
+CUST0057,5,Repeat Customer,1363981,Dion Saputra,Semarang,Jawa Tengah,Male,25-34
+CUST0059,1,One-Time Customer,328000,Anton Kurniawan,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0060,3,Repeat Customer,1953754,Dion Lestari,Pekanbaru,Riau,Male,25-34
+CUST0061,1,One-Time Customer,397000,Salsa Tarigan,Bekasi,Jawa Barat,Female,35-44
+CUST0062,3,Repeat Customer,1713666,Rendi Anggraini,Padang,Sumatera Barat,Male,35-44
+CUST0063,3,Repeat Customer,1135000,Karina Anggraini,Pekanbaru,Riau,Female,18-24
+CUST0064,2,Repeat Customer,952536,Vania Fauzi,Bekasi,Jawa Barat,Female,25-34
+CUST0065,5,Repeat Customer,2147224,Indah Suryadi,Pekanbaru,Riau,Female,18-24
+CUST0066,3,Repeat Customer,1013842,Citra Simbolon,Malang,Jawa Timur,Female,45+
+CUST0067,1,One-Time Customer,72070,Anton Yulianti,Jakarta,Dki Jakarta,Male,25-34
+CUST0068,4,Repeat Customer,1245239,Nabila Setiawan,Makassar,Sulawesi Selatan,Female,18-24
+CUST0069,2,Repeat Customer,1431846,Eko Yulianti,Makassar,Sulawesi Selatan,Male,35-44
+CUST0070,2,Repeat Customer,1145000,Aulia Rahmawati,Balikpapan,Kalimantan Timur,Female,18-24
+CUST0071,1,One-Time Customer,111686,Citra Sembiring,Pontianak,Kalimantan Barat,Female,25-34
+CUST0072,1,One-Time Customer,179000,Maulana Hidayat,Medan,Sumatera Utara,Male,18-24
+CUST0074,2,Repeat Customer,1505052,Selvi Sinaga,Medan,Sumatera Utara,Female,18-24
+CUST0075,2,Repeat Customer,909592,Vania Utami,Semarang,Jawa Tengah,Female,25-34
+CUST0076,2,Repeat Customer,1146000,Olivia Saputra,Tangerang,Banten,Female,25-34
+CUST0077,2,Repeat Customer,274717,Citra Setiawan,Medan,Sumatera Utara,Female,25-34
+CUST0078,2,Repeat Customer,188000,Eko Hutapea,Bandung,Jawa Barat,Male,25-34
+CUST0079,5,Repeat Customer,2767629,Wulan Rahmawati,Pontianak,Kalimantan Barat,Female,18-24
+CUST0080,1,One-Time Customer,149000,Maulana Tarigan,Bogor,Jawa Barat,Male,35-44
+CUST0081,1,One-Time Customer,279000,Indah Pohan,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0082,1,One-Time Customer,377000,Bella Tanjung,Pekanbaru,Riau,Female,35-44
+CUST0083,1,One-Time Customer,448000,Melati Ramadhan,Pontianak,Kalimantan Barat,Female,35-44
+CUST0084,1,One-Time Customer,1019705,Mira Rahmawati,Jakarta,Dki Jakarta,Female,35-44
+CUST0085,4,Repeat Customer,1750001,Mega Simbolon,Pontianak,Kalimantan Barat,Female,35-44
+CUST0087,3,Repeat Customer,1433310,Shinta Yulianti,Malang,Jawa Timur,Female,18-24
+CUST0089,1,One-Time Customer,1097000,Irfan Tanjung,Padang,Sumatera Barat,Male,45+
+CUST0090,1,One-Time Customer,92581,Lina Suryadi,Bandung,Jawa Barat,Female,25-34
+CUST0091,4,Repeat Customer,1752008,Sari Aprilia,Makassar,Sulawesi Selatan,Female,18-24
+CUST0092,1,One-Time Customer,897000,Ridho Manurung,Bandung,Jawa Barat,Male,25-34
+CUST0093,2,Repeat Customer,993561,Tika Sari,Bandung,Jawa Barat,Female,35-44
+CUST0094,1,One-Time Customer,79724,Dani Utami,Pekanbaru,Riau,Male,18-24
+CUST0095,2,Repeat Customer,1297624,Lina Hasanah,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0096,3,Repeat Customer,2071000,Mega Hasanah,Pontianak,Kalimantan Barat,Female,25-34
+CUST0097,2,Repeat Customer,1426394,Dimas Aprilia,Makassar,Sulawesi Selatan,Male,35-44
+CUST0098,2,Repeat Customer,677000,Bintang Hutapea,Bekasi,Jawa Barat,Male,18-24
+CUST0099,3,Repeat Customer,675456,Dimas Hidayat,Depok,Jawa Barat,Male,18-24
+CUST0100,1,One-Time Customer,567000,Raka Cahyani,Palembang,Sumatera Selatan,Male,18-24
+CUST0101,4,Repeat Customer,2254690,Putra Permata,Semarang,Jawa Tengah,Male,18-24
+CUST0103,3,Repeat Customer,989102,Rio Aprilia,Jakarta,Dki Jakarta,Male,45+
+CUST0104,5,Repeat Customer,3103730,Maulana Hasanah,Jakarta,Dki Jakarta,Male,18-24
+CUST0105,5,Repeat Customer,1428237,Hasna Utami,Padang,Sumatera Barat,Female,18-24
+CUST0106,2,Repeat Customer,523298,Teguh Sembiring,Palembang,Sumatera Selatan,Male,25-34
+CUST0107,2,Repeat Customer,1693425,Bambang Hutapea,Depok,Jawa Barat,Male,25-34
+CUST0108,4,Repeat Customer,1724429,Putri Aprilia,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0110,4,Repeat Customer,1754452,Putra Hakim,Bogor,Jawa Barat,Male,35-44
+CUST0111,3,Repeat Customer,1882497,Rendi Hasanah,Pontianak,Kalimantan Barat,Male,25-34
+CUST0112,1,One-Time Customer,399000,Rina Putri,Pontianak,Kalimantan Barat,Female,25-34
+CUST0113,2,Repeat Customer,336581,Agus Hidayat,Palembang,Sumatera Selatan,Male,25-34
+CUST0114,1,One-Time Customer,156644,Risma Pratama,Tangerang,Banten,Female,25-34
+CUST0115,2,Repeat Customer,728000,Nia Wijaya,Malang,Jawa Timur,Female,45+
+CUST0116,2,Repeat Customer,358000,Nia Lestari,Malang,Jawa Timur,Female,35-44
+CUST0117,2,Repeat Customer,1459052,Ridho Wardani,Manado,Sulawesi Utara,Male,25-34
+CUST0118,4,Repeat Customer,1462000,Fajar Cahyani,Bekasi,Jawa Barat,Male,18-24
+CUST0119,1,One-Time Customer,228000,Naila Aprilia,Makassar,Sulawesi Selatan,Female,18-24
+CUST0120,5,Repeat Customer,2495876,Fatimah Hartono,Pontianak,Kalimantan Barat,Female,18-24
+CUST0121,2,Repeat Customer,797000,Aji Sari,Manado,Sulawesi Utara,Male,35-44
+CUST0122,1,One-Time Customer,1372273,Pandu Cahyani,Bandung,Jawa Barat,Male,18-24
+CUST0123,1,One-Time Customer,1214572,Hana Simbolon,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0124,1,One-Time Customer,658000,Tika Sinaga,Manado,Sulawesi Utara,Female,18-24
+CUST0126,1,One-Time Customer,79000,Olivia Pohan,Depok,Jawa Barat,Female,25-34
+CUST0127,3,Repeat Customer,729615,Melati Fauzi,Depok,Jawa Barat,Female,35-44
+CUST0128,1,One-Time Customer,1427000,Kirana Anggraini,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0130,3,Repeat Customer,1843000,Dewi Ramadhan,Manado,Sulawesi Utara,Female,35-44
+CUST0131,1,One-Time Customer,448000,Reza Hutapea,Bekasi,Jawa Barat,Male,18-24
+CUST0132,3,Repeat Customer,863753,Pandu Siregar,Depok,Jawa Barat,Male,45+
+CUST0133,1,One-Time Customer,898000,Mawar Hasanah,Palembang,Sumatera Selatan,Female,35-44
+CUST0134,2,Repeat Customer,1606000,Rian Manurung,Tangerang,Banten,Male,25-34
+CUST0135,6,Repeat Customer,2792238,Fatimah Nugroho,Makassar,Sulawesi Selatan,Female,25-34
+CUST0136,3,Repeat Customer,1836320,Hadi Setiawan,Jakarta,Dki Jakarta,Male,45+
+CUST0137,5,Repeat Customer,2116050,Karina Pohan,Surabaya,Jawa Timur,Female,25-34
+CUST0138,1,One-Time Customer,350012,Eko Iskandar,Malang,Jawa Timur,Male,45+
+CUST0139,2,Repeat Customer,678691,Zahra Lestari,Bekasi,Jawa Barat,Female,25-34
+CUST0141,4,Repeat Customer,1905231,Selvi Rahmawati,Malang,Jawa Timur,Female,25-34
+CUST0142,3,Repeat Customer,1713550,Fatimah Yulianti,Pontianak,Kalimantan Barat,Female,25-34
+CUST0143,3,Repeat Customer,2926034,Hana Sembiring,Medan,Sumatera Utara,Female,35-44
+CUST0144,2,Repeat Customer,3055619,Yusuf Ginting,Banjarmasin,Kalimantan Selatan,Male,35-44
+CUST0145,2,Repeat Customer,435081,Aulia Halim,Manado,Sulawesi Utara,Female,18-24
+CUST0146,3,Repeat Customer,2106245,Putri Sembiring,Depok,Jawa Barat,Female,35-44
+CUST0147,1,One-Time Customer,149000,Rendi Nugroho,Jakarta,Dki Jakarta,Male,45+
+CUST0148,3,Repeat Customer,1880074,Hasna Sembiring,Surabaya,Jawa Timur,Female,25-34
+CUST0149,1,One-Time Customer,119000,Andi Suryadi,Padang,Sumatera Barat,Male,25-34
+CUST0150,2,Repeat Customer,697000,Raka Setiawan,Makassar,Sulawesi Selatan,Male,25-34
+CUST0151,2,Repeat Customer,657000,Tika Setiawan,Bekasi,Jawa Barat,Female,25-34
+CUST0153,4,Repeat Customer,1742000,Fitri Hasanah,Pontianak,Kalimantan Barat,Female,35-44
+CUST0154,2,Repeat Customer,496897,Sonia Sari,Palembang,Sumatera Selatan,Female,25-34
+CUST0155,1,One-Time Customer,1176000,Anggi Tarigan,Pekanbaru,Riau,Female,18-24
+CUST0156,2,Repeat Customer,1098176,Putra Putri,Manado,Sulawesi Utara,Male,35-44
+CUST0157,1,One-Time Customer,497000,Sari Hasanah,Yogyakarta,Di Yogyakarta,Female,18-24
+CUST0158,2,Repeat Customer,1209361,Indra Wardani,Bandung,Jawa Barat,Male,18-24
+CUST0159,2,Repeat Customer,846240,Vivi Ramadhan,Jakarta,Dki Jakarta,Female,25-34
+CUST0160,4,Repeat Customer,2850489,Yuli Wijaya,Pontianak,Kalimantan Barat,Female,25-34
+CUST0161,5,Repeat Customer,1028164,Cinta Nugroho,Depok,Jawa Barat,Female,25-34
+CUST0162,1,One-Time Customer,299000,Vania Saputra,Manado,Sulawesi Utara,Female,25-34
+CUST0163,2,Repeat Customer,1643000,Bintang Rahmawati,Bandung,Jawa Barat,Male,18-24
+CUST0164,2,Repeat Customer,227000,Anggun Sembiring,Bandung,Jawa Barat,Female,25-34
+CUST0166,2,Repeat Customer,682535,Vera Cahyani,Tangerang,Banten,Female,18-24
+CUST0167,2,Repeat Customer,2874000,Rio Ramadhan,Medan,Sumatera Utara,Male,18-24
+CUST0168,3,Repeat Customer,453000,Teguh Utami,Banjarmasin,Kalimantan Selatan,Male,35-44
+CUST0170,4,Repeat Customer,1483760,Indra Utami,Bekasi,Jawa Barat,Male,25-34
+CUST0171,4,Repeat Customer,492766,Maulana Utami,Pekanbaru,Riau,Male,35-44
+CUST0172,3,Repeat Customer,2422000,Tika Iskandar,Padang,Sumatera Barat,Female,35-44
+CUST0173,3,Repeat Customer,1036670,Mega Manurung,Pekanbaru,Riau,Female,25-34
+CUST0175,4,Repeat Customer,3724648,Aditya Hasanah,Palembang,Sumatera Selatan,Male,25-34
+CUST0177,8,Repeat Customer,2720588,Bagus Pohan,Bekasi,Jawa Barat,Male,18-24
+CUST0179,4,Repeat Customer,2633109,Ratna Cahyani,Medan,Sumatera Utara,Female,18-24
+CUST0180,3,Repeat Customer,1436904,Vivi Kurniawan,Tangerang,Banten,Female,35-44
+CUST0181,1,One-Time Customer,477000,Bintang Yulianti,Makassar,Sulawesi Selatan,Male,25-34
+CUST0182,4,Repeat Customer,2201423,Irfan Saputri,Bekasi,Jawa Barat,Male,25-34
+CUST0183,1,One-Time Customer,329000,Budi Manurung,Yogyakarta,Di Yogyakarta,Male,25-34
+CUST0184,1,One-Time Customer,406536,Doni Fauzi,Medan,Sumatera Utara,Male,18-24
+CUST0185,2,Repeat Customer,1671044,Faisal Sembiring,Padang,Sumatera Barat,Male,25-34
+CUST0186,3,Repeat Customer,1850540,Rio Kurniawan,Semarang,Jawa Tengah,Male,25-34
+CUST0187,4,Repeat Customer,1840000,Olivia Sembiring,Surabaya,Jawa Timur,Female,35-44
+CUST0188,4,Repeat Customer,2613301,Wulan Suryadi,Padang,Sumatera Barat,Female,25-34
+CUST0189,3,Repeat Customer,1146000,Bambang Iskandar,Tangerang,Banten,Male,35-44
+CUST0190,1,One-Time Customer,641792,Lia Susanti,Surabaya,Jawa Timur,Female,18-24
+CUST0191,3,Repeat Customer,1132128,Anton Wijaya,Denpasar,Bali,Male,35-44
+CUST0192,3,Repeat Customer,1113106,Kirana Maharani,Bandung,Jawa Barat,Female,25-34
+CUST0193,2,Repeat Customer,1276777,Selvi Saputra,Medan,Sumatera Utara,Female,25-34
+CUST0194,1,One-Time Customer,399000,Fajar Saputri,Tangerang,Banten,Male,25-34
+CUST0195,5,Repeat Customer,3449283,Mega Cahyani,Bekasi,Jawa Barat,Female,18-24
+CUST0196,1,One-Time Customer,1196000,Hadi Tarigan,Semarang,Jawa Tengah,Male,25-34
+CUST0197,3,Repeat Customer,2012000,Anggi Manurung,Depok,Jawa Barat,Female,25-34
+CUST0198,3,Repeat Customer,3144861,Mira Pohan,Malang,Jawa Timur,Female,35-44
+CUST0199,4,Repeat Customer,2235041,Yoga Iskandar,Semarang,Jawa Tengah,Male,25-34
+CUST0200,2,Repeat Customer,1521669,Vania Hidayat,Pontianak,Kalimantan Barat,Female,25-34
+CUST0201,3,Repeat Customer,1517078,Kevin Wardani,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0202,2,Repeat Customer,790605,Bayu Kurniawan,Banjarmasin,Kalimantan Selatan,Male,18-24
+CUST0204,2,Repeat Customer,1906937,Adi Pratama,Manado,Sulawesi Utara,Male,18-24
+CUST0205,2,Repeat Customer,776000,Agus Wardani,Balikpapan,Kalimantan Timur,Male,18-24
+CUST0206,2,Repeat Customer,1296000,Risma Yulianti,Bogor,Jawa Barat,Female,18-24
+CUST0207,1,One-Time Customer,75263,Alya Saputra,Surabaya,Jawa Timur,Female,35-44
+CUST0208,2,Repeat Customer,876191,Diah Hutapea,Manado,Sulawesi Utara,Female,18-24
+CUST0209,1,One-Time Customer,1128141,Fajar Suryadi,Makassar,Sulawesi Selatan,Male,18-24
+CUST0210,3,Repeat Customer,940523,Selvi Simbolon,Bandung,Jawa Barat,Female,35-44
+CUST0211,1,One-Time Customer,349673,Fatimah Utami,Denpasar,Bali,Female,18-24
+CUST0212,3,Repeat Customer,1269045,Selvi Tarigan,Semarang,Jawa Tengah,Female,25-34
+CUST0213,4,Repeat Customer,1183360,Maulana Nugroho,Medan,Sumatera Utara,Male,45+
+CUST0214,3,Repeat Customer,2706801,Risma Tanjung,Padang,Sumatera Barat,Female,18-24
+CUST0215,8,Repeat Customer,4098048,Hadi Fauzi,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0216,2,Repeat Customer,845000,Andi Saputri,Jakarta,Dki Jakarta,Male,25-34
+CUST0217,1,One-Time Customer,449000,Vera Rahmawati,Denpasar,Bali,Female,35-44
+CUST0218,2,Repeat Customer,870224,Agus Hartono,Jakarta,Dki Jakarta,Male,35-44
+CUST0219,2,Repeat Customer,378771,Irfan Anggraini,Palembang,Sumatera Selatan,Male,18-24
+CUST0220,1,One-Time Customer,598000,Siti Hasanah,Medan,Sumatera Utara,Female,35-44
+CUST0221,5,Repeat Customer,3253500,Faisal Iskandar,Balikpapan,Kalimantan Timur,Male,35-44
+CUST0222,1,One-Time Customer,478000,Nanda Hartono,Manado,Sulawesi Utara,Male,18-24
+CUST0223,1,One-Time Customer,397000,Gita Hartono,Bekasi,Jawa Barat,Female,18-24
+CUST0224,5,Repeat Customer,1601240,Alya Hidayat,Depok,Jawa Barat,Female,25-34
+CUST0225,4,Repeat Customer,1237654,Hana Ginting,Bekasi,Jawa Barat,Female,35-44
+CUST0226,5,Repeat Customer,2087477,Putri Tarigan,Surabaya,Jawa Timur,Female,25-34
+CUST0228,5,Repeat Customer,2835137,Rina Fauzi,Malang,Jawa Timur,Female,25-34
+CUST0229,4,Repeat Customer,1851000,Toni Nugroho,Padang,Sumatera Barat,Male,18-24
+CUST0230,1,One-Time Customer,355661,Ayu Anggraini,Banjarmasin,Kalimantan Selatan,Female,45+
+CUST0231,2,Repeat Customer,1925190,Putra Ginting,Makassar,Sulawesi Selatan,Male,45+
+CUST0232,1,One-Time Customer,1027144,Rani Susanti,Bandung,Jawa Barat,Female,25-34
+CUST0233,4,Repeat Customer,4377525,Nadia Rahmawati,Manado,Sulawesi Utara,Female,25-34
+CUST0234,1,One-Time Customer,987000,Hendra Santoso,Pontianak,Kalimantan Barat,Male,18-24
+CUST0235,4,Repeat Customer,1451603,Indah Cahyani,Tangerang,Banten,Female,25-34
+CUST0237,1,One-Time Customer,278987,Mega Manurung,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0238,2,Repeat Customer,435467,Sari Setiawan,Medan,Sumatera Utara,Female,18-24
+CUST0239,3,Repeat Customer,3342746,Olivia Sinaga,Jakarta,Dki Jakarta,Female,18-24
+CUST0240,2,Repeat Customer,558484,Raka Susanti,Yogyakarta,Di Yogyakarta,Male,35-44
+CUST0241,4,Repeat Customer,1261736,Olivia Yulianti,Depok,Jawa Barat,Female,18-24
+CUST0242,1,One-Time Customer,717000,Shinta Ramadhan,Bekasi,Jawa Barat,Female,25-34
+CUST0243,1,One-Time Customer,598926,Maulana Yulianti,Malang,Jawa Timur,Male,45+
+CUST0244,4,Repeat Customer,1184000,Ratna Pratama,Yogyakarta,Di Yogyakarta,Female,35-44
+CUST0245,3,Repeat Customer,1626253,Lina Pohan,Bogor,Jawa Barat,Female,25-34
+CUST0246,2,Repeat Customer,658490,Anton Kurniawan,Depok,Jawa Barat,Male,25-34
+CUST0247,1,One-Time Customer,597000,Indah Lestari,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0250,1,One-Time Customer,158000,Reza Hidayat,Pekanbaru,Riau,Male,35-44
+CUST0251,1,One-Time Customer,1455000,Cinta Wijaya,Surabaya,Jawa Timur,Female,35-44
+CUST0252,4,Repeat Customer,2098997,Mawar Cahyani,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0253,2,Repeat Customer,226137,Alya Saputra,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0254,1,One-Time Customer,1086000,Lina Manurung,Balikpapan,Kalimantan Timur,Female,45+
+CUST0255,2,Repeat Customer,115499,Putra Hasanah,Medan,Sumatera Utara,Male,25-34
+CUST0256,1,One-Time Customer,1435000,Yuli Hakim,Surabaya,Jawa Timur,Female,35-44
+CUST0257,1,One-Time Customer,98000,Reza Hasanah,Depok,Jawa Barat,Male,25-34
+CUST0258,1,One-Time Customer,427193,Hana Halim,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0259,2,Repeat Customer,774256,Dewi Lestari,Banjarmasin,Kalimantan Selatan,Female,35-44
+CUST0260,2,Repeat Customer,1718712,Shinta Hasanah,Balikpapan,Kalimantan Timur,Female,18-24
+CUST0261,4,Repeat Customer,2753501,Reza Siregar,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0262,5,Repeat Customer,1723314,Anggi Nugroho,Medan,Sumatera Utara,Female,25-34
+CUST0263,2,Repeat Customer,452365,Budi Nugroho,Palembang,Sumatera Selatan,Male,25-34
+CUST0264,3,Repeat Customer,2001000,Teguh Pohan,Banjarmasin,Kalimantan Selatan,Male,35-44
+CUST0265,1,One-Time Customer,59000,Rani Manurung,Semarang,Jawa Tengah,Female,35-44
+CUST0266,2,Repeat Customer,741227,Salsa Santoso,Jakarta,Dki Jakarta,Female,35-44
+CUST0267,1,One-Time Customer,99000,Yoga Sari,Bekasi,Jawa Barat,Male,35-44
+CUST0268,3,Repeat Customer,1310661,Olivia Suryadi,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0269,3,Repeat Customer,620067,Ridho Susanti,Tangerang,Banten,Male,25-34
+CUST0270,5,Repeat Customer,2788547,Satrio Halim,Semarang,Jawa Tengah,Male,35-44
+CUST0271,3,Repeat Customer,1194075,Yuli Hakim,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0272,1,One-Time Customer,119000,Hadi Siregar,Denpasar,Bali,Male,25-34
+CUST0273,2,Repeat Customer,614441,Rio Hartono,Yogyakarta,Di Yogyakarta,Male,35-44
+CUST0274,1,One-Time Customer,321980,Sri Tanjung,Surabaya,Jawa Timur,Female,45+
+CUST0275,1,One-Time Customer,163351,Raka Cahyani,Bandung,Jawa Barat,Male,18-24
+CUST0276,1,One-Time Customer,446372,Cinta Nugroho,Balikpapan,Kalimantan Timur,Female,18-24
+CUST0277,4,Repeat Customer,2365593,Rio Suryadi,Malang,Jawa Timur,Male,45+
+CUST0278,3,Repeat Customer,1154429,Faisal Siregar,Balikpapan,Kalimantan Timur,Male,18-24
+CUST0280,3,Repeat Customer,779532,Citra Tarigan,Depok,Jawa Barat,Female,18-24
+CUST0281,2,Repeat Customer,1237739,Hasna Cahyani,Pontianak,Kalimantan Barat,Female,25-34
+CUST0283,2,Repeat Customer,304822,Rizky Pratama,Bogor,Jawa Barat,Male,35-44
+CUST0284,4,Repeat Customer,3366126,Mira Hartono,Bandung,Jawa Barat,Female,35-44
+CUST0285,3,Repeat Customer,1056000,Sari Sari,Bekasi,Jawa Barat,Female,25-34
+CUST0287,1,One-Time Customer,1056000,Hasna Hasanah,Denpasar,Bali,Female,35-44
+CUST0288,4,Repeat Customer,2027369,Hasna Hidayat,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0289,3,Repeat Customer,1296765,Putra Anggraini,Tangerang,Banten,Male,18-24
+CUST0290,5,Repeat Customer,2357760,Gita Maharani,Palembang,Sumatera Selatan,Female,18-24
+CUST0291,4,Repeat Customer,2605285,Diah Pratama,Denpasar,Bali,Female,25-34
+CUST0292,1,One-Time Customer,329000,Rendi Saputri,Tangerang,Banten,Male,35-44
+CUST0293,1,One-Time Customer,251610,Budi Siregar,Tangerang,Banten,Male,35-44
+CUST0294,1,One-Time Customer,99000,Diah Halim,Palembang,Sumatera Selatan,Female,18-24
+CUST0295,4,Repeat Customer,2128958,Fajar Siregar,Manado,Sulawesi Utara,Male,18-24
+CUST0296,3,Repeat Customer,1409399,Satrio Fauzi,Manado,Sulawesi Utara,Male,25-34
+CUST0297,5,Repeat Customer,2775841,Rani Hasanah,Banjarmasin,Kalimantan Selatan,Female,35-44
+CUST0298,1,One-Time Customer,436791,Teguh Santoso,Pontianak,Kalimantan Barat,Male,35-44
+CUST0299,1,One-Time Customer,884324,Raka Tanjung,Manado,Sulawesi Utara,Male,25-34
+CUST0300,3,Repeat Customer,1526624,Vera Hartono,Medan,Sumatera Utara,Female,18-24
+CUST0301,3,Repeat Customer,1450056,Rian Putri,Tangerang,Banten,Male,25-34
+CUST0302,3,Repeat Customer,2199822,Daffa Susanti,Manado,Sulawesi Utara,Male,35-44
+CUST0303,2,Repeat Customer,1493000,Wulan Kurniawan,Surabaya,Jawa Timur,Female,25-34
+CUST0304,3,Repeat Customer,1214000,Bambang Anggraini,Surabaya,Jawa Timur,Male,45+
+CUST0305,1,One-Time Customer,666000,Karina Hutapea,Semarang,Jawa Tengah,Female,35-44
+CUST0306,4,Repeat Customer,1116667,Alya Hartono,Tangerang,Banten,Female,25-34
+CUST0307,2,Repeat Customer,1356000,Bagus Saputra,Pontianak,Kalimantan Barat,Male,25-34
+CUST0308,6,Repeat Customer,2326663,Siti Hakim,Denpasar,Bali,Female,35-44
+CUST0309,1,One-Time Customer,1079326,Rian Sinaga,Denpasar,Bali,Male,25-34
+CUST0310,3,Repeat Customer,2302863,Doni Hartono,Bekasi,Jawa Barat,Male,25-34
+CUST0311,3,Repeat Customer,1719549,Nadia Aprilia,Semarang,Jawa Tengah,Female,18-24
+CUST0314,3,Repeat Customer,569041,Nabila Wardani,Medan,Sumatera Utara,Female,25-34
+CUST0315,2,Repeat Customer,2625672,Adi Tarigan,Bogor,Jawa Barat,Male,35-44
+CUST0316,2,Repeat Customer,976527,Cinta Rahmawati,Depok,Jawa Barat,Female,18-24
+CUST0317,2,Repeat Customer,497000,Dimas Pohan,Balikpapan,Kalimantan Timur,Male,18-24
+CUST0318,2,Repeat Customer,879951,Rani Setiawan,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0319,3,Repeat Customer,785604,Bella Utami,Bandung,Jawa Barat,Female,25-34
+CUST0320,2,Repeat Customer,630375,Indah Maharani,Bekasi,Jawa Barat,Female,35-44
+CUST0321,4,Repeat Customer,319126,Teguh Iskandar,Makassar,Sulawesi Selatan,Male,35-44
+CUST0322,2,Repeat Customer,1363458,Rian Nugroho,Banjarmasin,Kalimantan Selatan,Male,18-24
+CUST0323,3,Repeat Customer,750252,Bambang Saputri,Tangerang,Banten,Male,35-44
+CUST0324,4,Repeat Customer,2245798,Mawar Rahmawati,Balikpapan,Kalimantan Timur,Female,45+
+CUST0325,2,Repeat Customer,1893000,Diah Nugroho,Tangerang,Banten,Female,25-34
+CUST0326,1,One-Time Customer,215196,Zahra Pohan,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0327,6,Repeat Customer,2410298,Ratna Saputri,Denpasar,Bali,Female,18-24
+CUST0328,4,Repeat Customer,1691956,Wulan Fauzi,Makassar,Sulawesi Selatan,Female,45+
+CUST0329,1,One-Time Customer,138488,Lina Fauzi,Bekasi,Jawa Barat,Female,25-34
+CUST0330,3,Repeat Customer,1127282,Faisal Simbolon,Semarang,Jawa Tengah,Male,35-44
+CUST0331,3,Repeat Customer,1775986,Rizky Suryadi,Depok,Jawa Barat,Male,45+
+CUST0332,2,Repeat Customer,1109689,Reza Pratama,Palembang,Sumatera Selatan,Male,25-34
+CUST0333,4,Repeat Customer,1951693,Tika Sari,Palembang,Sumatera Selatan,Female,25-34
+CUST0334,1,One-Time Customer,597000,Surya Setiawan,Tangerang,Banten,Male,35-44
+CUST0336,2,Repeat Customer,1279886,Bayu Utami,Jakarta,Dki Jakarta,Male,25-34
+CUST0337,2,Repeat Customer,598000,Andi Cahyani,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0338,3,Repeat Customer,1027501,Karina Putri,Semarang,Jawa Tengah,Female,18-24
+CUST0339,2,Repeat Customer,641297,Rendi Manurung,Semarang,Jawa Tengah,Male,25-34
+CUST0340,3,Repeat Customer,737229,Bambang Simbolon,Malang,Jawa Timur,Male,45+
+CUST0341,2,Repeat Customer,1411000,Hendra Santoso,Bogor,Jawa Barat,Male,35-44
+CUST0342,1,One-Time Customer,42158,Bintang Simbolon,Pontianak,Kalimantan Barat,Male,45+
+CUST0343,1,One-Time Customer,199000,Hasan Putri,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0344,3,Repeat Customer,3200309,Cinta Saputra,Bekasi,Jawa Barat,Female,35-44
+CUST0345,3,Repeat Customer,2706156,Bayu Tarigan,Denpasar,Bali,Male,35-44
+CUST0346,5,Repeat Customer,2752986,Citra Yulianti,Medan,Sumatera Utara,Female,25-34
+CUST0347,2,Repeat Customer,1576000,Risma Saputri,Depok,Jawa Barat,Female,25-34
+CUST0348,4,Repeat Customer,1555688,Mawar Ginting,Bandung,Jawa Barat,Female,25-34
+CUST0349,2,Repeat Customer,1058651,Dimas Lestari,Bogor,Jawa Barat,Male,18-24
+CUST0351,4,Repeat Customer,1753000,Bambang Kurniawan,Tangerang,Banten,Male,35-44
+CUST0352,2,Repeat Customer,347880,Dani Anggraini,Makassar,Sulawesi Selatan,Male,18-24
+CUST0353,3,Repeat Customer,877864,Rizky Yulianti,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0354,1,One-Time Customer,957000,Rian Wijaya,Denpasar,Bali,Male,25-34
+CUST0355,3,Repeat Customer,723304,Joko Saputri,Medan,Sumatera Utara,Male,25-34
+CUST0356,3,Repeat Customer,539534,Bambang Wardani,Depok,Jawa Barat,Male,18-24
+CUST0357,1,One-Time Customer,66833,Nanda Yulianti,Bekasi,Jawa Barat,Male,35-44
+CUST0358,4,Repeat Customer,1547626,Anggun Hutapea,Bekasi,Jawa Barat,Female,25-34
+CUST0359,1,One-Time Customer,210596,Wulan Sari,Bekasi,Jawa Barat,Female,25-34
+CUST0360,1,One-Time Customer,284528,Rizky Wardani,Semarang,Jawa Tengah,Male,18-24
+CUST0361,3,Repeat Customer,835730,Gita Cahyani,Pekanbaru,Riau,Female,25-34
+CUST0363,3,Repeat Customer,3535940,Shinta Permata,Surabaya,Jawa Timur,Female,35-44
+CUST0364,1,One-Time Customer,69000,Nadia Iskandar,Padang,Sumatera Barat,Female,35-44
+CUST0365,3,Repeat Customer,1970000,Mawar Iskandar,Padang,Sumatera Barat,Female,25-34
+CUST0366,2,Repeat Customer,1923503,Agus Hutapea,Depok,Jawa Barat,Male,25-34
+CUST0367,2,Repeat Customer,797713,Vivi Sari,Tangerang,Banten,Female,25-34
+CUST0368,2,Repeat Customer,1762544,Aulia Cahyani,Yogyakarta,Di Yogyakarta,Female,18-24
+CUST0369,4,Repeat Customer,2614686,Hasna Sinaga,Pekanbaru,Riau,Female,25-34
+CUST0370,3,Repeat Customer,371690,Zahra Suryadi,Palembang,Sumatera Selatan,Female,25-34
+CUST0371,2,Repeat Customer,827000,Iqbal Setiawan,Bandung,Jawa Barat,Male,18-24
+CUST0372,4,Repeat Customer,2341000,Reza Fauzi,Bandung,Jawa Barat,Male,25-34
+CUST0373,2,Repeat Customer,1282048,Joko Tanjung,Semarang,Jawa Tengah,Male,18-24
+CUST0374,2,Repeat Customer,1778146,Risma Hutapea,Pontianak,Kalimantan Barat,Female,45+
+CUST0375,4,Repeat Customer,3153485,Indra Hutapea,Medan,Sumatera Utara,Male,35-44
+CUST0376,2,Repeat Customer,552680,Pandu Pratama,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0379,2,Repeat Customer,328000,Nanda Hidayat,Pontianak,Kalimantan Barat,Male,35-44
+CUST0380,4,Repeat Customer,1151969,Ferdi Putri,Malang,Jawa Timur,Male,18-24
+CUST0382,3,Repeat Customer,1483000,Bagus Lestari,Bandung,Jawa Barat,Male,25-34
+CUST0383,2,Repeat Customer,477000,Naila Yulianti,Padang,Sumatera Barat,Female,18-24
+CUST0384,1,One-Time Customer,399000,Tika Kurniawan,Denpasar,Bali,Female,45+
+CUST0385,1,One-Time Customer,299000,Irfan Suryadi,Surabaya,Jawa Timur,Male,25-34
+CUST0386,3,Repeat Customer,925000,Cinta Wardani,Padang,Sumatera Barat,Female,18-24
+CUST0387,1,One-Time Customer,467921,Rian Simbolon,Depok,Jawa Barat,Male,35-44
+CUST0388,3,Repeat Customer,913481,Arif Simbolon,Pontianak,Kalimantan Barat,Male,18-24
+CUST0389,1,One-Time Customer,119000,Fatimah Santoso,Pontianak,Kalimantan Barat,Female,25-34
+CUST0390,1,One-Time Customer,837000,Rendi Hidayat,Bandung,Jawa Barat,Male,25-34
+CUST0391,2,Repeat Customer,799686,Tania Utami,Pontianak,Kalimantan Barat,Female,25-34
+CUST0392,1,One-Time Customer,257131,Agus Nugroho,Pontianak,Kalimantan Barat,Male,25-34
+CUST0394,1,One-Time Customer,119000,Melati Setiawan,Bekasi,Jawa Barat,Female,25-34
+CUST0395,5,Repeat Customer,1991541,Mawar Susanti,Makassar,Sulawesi Selatan,Female,18-24
+CUST0396,1,One-Time Customer,59000,Hasna Manurung,Padang,Sumatera Barat,Female,25-34
+CUST0397,5,Repeat Customer,3135698,Rendi Aprilia,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0398,4,Repeat Customer,1262559,Irfan Pohan,Banjarmasin,Kalimantan Selatan,Male,18-24
+CUST0399,7,Repeat Customer,4644956,Ratna Hidayat,Banjarmasin,Kalimantan Selatan,Female,25-34
+CUST0400,6,Repeat Customer,2092740,Bella Fauzi,Manado,Sulawesi Utara,Female,35-44
+CUST0401,1,One-Time Customer,49000,Ratna Cahyani,Denpasar,Bali,Female,35-44
+CUST0402,3,Repeat Customer,1468587,Nia Utami,Banjarmasin,Kalimantan Selatan,Female,25-34
+CUST0403,1,One-Time Customer,1047000,Indah Utami,Surabaya,Jawa Timur,Female,25-34
+CUST0404,3,Repeat Customer,818211,Agus Maharani,Makassar,Sulawesi Selatan,Male,35-44
+CUST0405,2,Repeat Customer,1133298,Selvi Saputri,Denpasar,Bali,Female,35-44
+CUST0406,2,Repeat Customer,915000,Tania Iskandar,Jakarta,Dki Jakarta,Female,18-24
+CUST0407,2,Repeat Customer,744434,Mega Santoso,Pontianak,Kalimantan Barat,Female,18-24
+CUST0408,1,One-Time Customer,349000,Iqbal Utami,Denpasar,Bali,Male,25-34
+CUST0409,3,Repeat Customer,963245,Ridho Simbolon,Bekasi,Jawa Barat,Male,25-34
+CUST0410,5,Repeat Customer,1352637,Adi Sinaga,Semarang,Jawa Tengah,Male,25-34
+CUST0411,3,Repeat Customer,2776073,Ferdi Hakim,Surabaya,Jawa Timur,Male,25-34
+CUST0412,5,Repeat Customer,2108700,Salsa Iskandar,Depok,Jawa Barat,Female,35-44
+CUST0413,2,Repeat Customer,627000,Risma Sembiring,Padang,Sumatera Barat,Female,25-34
+CUST0414,4,Repeat Customer,2172000,Sri Saputri,Surabaya,Jawa Timur,Female,18-24
+CUST0415,1,One-Time Customer,329000,Hadi Manurung,Bekasi,Jawa Barat,Male,25-34
+CUST0416,2,Repeat Customer,1334279,Karina Hutapea,Jakarta,Dki Jakarta,Female,45+
+CUST0417,6,Repeat Customer,2045443,Hadi Lestari,Medan,Sumatera Utara,Male,25-34
+CUST0419,2,Repeat Customer,713516,Tika Anggraini,Medan,Sumatera Utara,Female,25-34
+CUST0420,2,Repeat Customer,554748,Andi Manurung,Makassar,Sulawesi Selatan,Male,25-34
+CUST0421,4,Repeat Customer,1438288,Anggi Wardani,Jakarta,Dki Jakarta,Female,18-24
+CUST0422,4,Repeat Customer,2039168,Naila Santoso,Makassar,Sulawesi Selatan,Female,35-44
+CUST0423,2,Repeat Customer,602673,Indra Wardani,Padang,Sumatera Barat,Male,18-24
+CUST0424,2,Repeat Customer,627000,Mawar Wardani,Bekasi,Jawa Barat,Female,18-24
+CUST0425,2,Repeat Customer,755076,Arif Hartono,Manado,Sulawesi Utara,Male,18-24
+CUST0426,2,Repeat Customer,566909,Fitri Cahyani,Makassar,Sulawesi Selatan,Female,35-44
+CUST0428,1,One-Time Customer,499000,Naila Manurung,Manado,Sulawesi Utara,Female,35-44
+CUST0430,1,One-Time Customer,9949,Sonia Saputra,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0431,1,One-Time Customer,248000,Aji Wijaya,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0432,1,One-Time Customer,152177,Rian Cahyani,Depok,Jawa Barat,Male,25-34
+CUST0433,2,Repeat Customer,2233000,Kirana Wardani,Manado,Sulawesi Utara,Female,18-24
+CUST0434,2,Repeat Customer,490830,Doni Putri,Pekanbaru,Riau,Male,25-34
+CUST0435,1,One-Time Customer,1255000,Fatimah Sembiring,Depok,Jawa Barat,Female,25-34
+CUST0436,2,Repeat Customer,1055785,Hendra Maharani,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0437,3,Repeat Customer,1155000,Ratna Wijaya,Pekanbaru,Riau,Female,35-44
+CUST0438,3,Repeat Customer,2103531,Melati Sinaga,Surabaya,Jawa Timur,Female,25-34
+CUST0439,2,Repeat Customer,850254,Rani Cahyani,Bekasi,Jawa Barat,Female,18-24
+CUST0440,1,One-Time Customer,1440114,Mira Susanti,Malang,Jawa Timur,Female,45+
+CUST0441,3,Repeat Customer,2187046,Zahra Anggraini,Manado,Sulawesi Utara,Female,18-24
+CUST0442,5,Repeat Customer,1862000,Rio Hasanah,Palembang,Sumatera Selatan,Male,25-34
+CUST0445,1,One-Time Customer,1016000,Hasna Sinaga,Makassar,Sulawesi Selatan,Female,25-34
+CUST0446,2,Repeat Customer,562816,Bagus Hasanah,Padang,Sumatera Barat,Male,25-34
+CUST0447,3,Repeat Customer,1473046,Yusuf Wardani,Palembang,Sumatera Selatan,Male,35-44
+CUST0448,3,Repeat Customer,1719820,Maya Pohan,Pekanbaru,Riau,Female,25-34
+CUST0449,3,Repeat Customer,1704462,Hana Ginting,Manado,Sulawesi Utara,Female,18-24
+CUST0450,3,Repeat Customer,2039410,Alya Lestari,Bandung,Jawa Barat,Female,18-24
+CUST0451,1,One-Time Customer,79000,Daffa Santoso,Manado,Sulawesi Utara,Male,35-44
+CUST0452,4,Repeat Customer,1365093,Naila Fauzi,Semarang,Jawa Tengah,Female,25-34
+CUST0453,6,Repeat Customer,4027093,Bagus Sembiring,Malang,Jawa Timur,Male,25-34
+CUST0454,6,Repeat Customer,2969404,Teguh Hutapea,Makassar,Sulawesi Selatan,Male,18-24
+CUST0455,2,Repeat Customer,856000,Alya Kurniawan,Pekanbaru,Riau,Female,45+
+CUST0456,3,Repeat Customer,1131265,Maya Saputra,Makassar,Sulawesi Selatan,Female,45+
+CUST0457,3,Repeat Customer,675524,Rani Siregar,Malang,Jawa Timur,Female,45+
+CUST0458,3,Repeat Customer,785000,Hasna Santoso,Depok,Jawa Barat,Female,18-24
+CUST0459,2,Repeat Customer,516216,Nia Putri,Bekasi,Jawa Barat,Female,18-24
+CUST0460,3,Repeat Customer,1416822,Olivia Yulianti,Jakarta,Dki Jakarta,Female,25-34
+CUST0461,4,Repeat Customer,2442133,Selvi Hutapea,Bekasi,Jawa Barat,Female,25-34
+CUST0462,2,Repeat Customer,1291772,Rizky Hartono,Depok,Jawa Barat,Male,25-34
+CUST0464,1,One-Time Customer,991084,Dimas Yulianti,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0465,3,Repeat Customer,1868214,Andre Sembiring,Surabaya,Jawa Timur,Male,18-24
+CUST0466,1,One-Time Customer,358000,Raka Yulianti,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0468,1,One-Time Customer,89000,Nanda Sari,Surabaya,Jawa Timur,Male,18-24
+CUST0469,2,Repeat Customer,815000,Maya Sari,Surabaya,Jawa Timur,Female,35-44
+CUST0470,2,Repeat Customer,1485000,Aulia Halim,Manado,Sulawesi Utara,Female,35-44
+CUST0471,3,Repeat Customer,486000,Nabila Susanti,Bandung,Jawa Barat,Female,18-24
+CUST0472,1,One-Time Customer,99000,Maya Ginting,Manado,Sulawesi Utara,Female,25-34
+CUST0473,2,Repeat Customer,1371761,Putri Yulianti,Banjarmasin,Kalimantan Selatan,Female,35-44
+CUST0474,5,Repeat Customer,5851769,Dewi Hutapea,Banjarmasin,Kalimantan Selatan,Female,25-34
+CUST0475,4,Repeat Customer,2403402,Indah Yulianti,Palembang,Sumatera Selatan,Female,18-24
+CUST0476,1,One-Time Customer,425812,Dewi Suryadi,Jakarta,Dki Jakarta,Female,35-44
+CUST0477,1,One-Time Customer,549000,Melati Wardani,Bogor,Jawa Barat,Female,35-44
+CUST0478,4,Repeat Customer,2231170,Aditya Lestari,Palembang,Sumatera Selatan,Male,18-24
+CUST0479,1,One-Time Customer,249404,Surya Sari,Padang,Sumatera Barat,Male,25-34
+CUST0480,3,Repeat Customer,1214437,Indra Sembiring,Pekanbaru,Riau,Male,35-44
+CUST0482,3,Repeat Customer,429123,Aditya Hakim,Bandung,Jawa Barat,Male,25-34
+CUST0483,1,One-Time Customer,149000,Salsa Tanjung,Padang,Sumatera Barat,Female,18-24
+CUST0484,3,Repeat Customer,889821,Karina Wardani,Medan,Sumatera Utara,Female,18-24
+CUST0485,1,One-Time Customer,508000,Raka Lestari,Malang,Jawa Timur,Male,18-24
+CUST0486,4,Repeat Customer,2579197,Cinta Saputri,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0487,2,Repeat Customer,344455,Citra Anggraini,Medan,Sumatera Utara,Female,35-44
+CUST0488,4,Repeat Customer,2208194,Tika Fauzi,Bogor,Jawa Barat,Female,18-24
+CUST0489,4,Repeat Customer,1759885,Hadi Cahyani,Depok,Jawa Barat,Male,18-24
+CUST0490,1,One-Time Customer,183878,Lia Utami,Pontianak,Kalimantan Barat,Female,35-44
+CUST0491,2,Repeat Customer,915000,Citra Siregar,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0492,9,Repeat Customer,4865145,Vivi Lestari,Pekanbaru,Riau,Female,35-44
+CUST0493,1,One-Time Customer,31256,Wahyu Hakim,Padang,Sumatera Barat,Male,18-24
+CUST0494,1,One-Time Customer,897000,Mira Pratama,Pekanbaru,Riau,Female,25-34
+CUST0495,1,One-Time Customer,231966,Dimas Kurniawan,Manado,Sulawesi Utara,Male,25-34
+CUST0496,1,One-Time Customer,1428468,Pandu Hidayat,Medan,Sumatera Utara,Male,18-24
+CUST0497,3,Repeat Customer,1050558,Fatimah Pohan,Makassar,Sulawesi Selatan,Female,35-44
+CUST0498,7,Repeat Customer,3837251,Wahyu Putri,Depok,Jawa Barat,Male,18-24
+CUST0499,3,Repeat Customer,625000,Anggun Iskandar,Tangerang,Banten,Female,18-24
+CUST0500,1,One-Time Customer,608000,Sari Manurung,Pontianak,Kalimantan Barat,Female,25-34
+CUST0501,2,Repeat Customer,1699999,Sri Siregar,Bogor,Jawa Barat,Female,45+
+CUST0503,2,Repeat Customer,655000,Vivi Ginting,Depok,Jawa Barat,Female,18-24
+CUST0504,2,Repeat Customer,379202,Galih Putri,Pontianak,Kalimantan Barat,Male,35-44
+CUST0505,4,Repeat Customer,2159183,Mawar Wijaya,Pontianak,Kalimantan Barat,Female,25-34
+CUST0506,1,One-Time Customer,744325,Rian Iskandar,Pekanbaru,Riau,Male,18-24
+CUST0508,2,Repeat Customer,2217065,Aji Suryadi,Manado,Sulawesi Utara,Male,35-44
+CUST0509,2,Repeat Customer,944320,Eko Manurung,Manado,Sulawesi Utara,Male,25-34
+CUST0510,2,Repeat Customer,1313000,Karina Halim,Pekanbaru,Riau,Female,25-34
+CUST0511,2,Repeat Customer,1046000,Tania Hasanah,Pontianak,Kalimantan Barat,Female,25-34
+CUST0513,2,Repeat Customer,1086000,Citra Aprilia,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0514,2,Repeat Customer,251357,Nanda Pratama,Pontianak,Kalimantan Barat,Male,35-44
+CUST0515,4,Repeat Customer,1243414,Hasan Pratama,Medan,Sumatera Utara,Male,25-34
+CUST0516,3,Repeat Customer,526000,Wulan Kurniawan,Denpasar,Bali,Female,35-44
+CUST0518,2,Repeat Customer,927000,Ferdi Hutapea,Manado,Sulawesi Utara,Male,45+
+CUST0521,2,Repeat Customer,769261,Fitri Nugroho,Palembang,Sumatera Selatan,Female,35-44
+CUST0523,1,One-Time Customer,317000,Ratna Sari,Depok,Jawa Barat,Female,35-44
+CUST0524,1,One-Time Customer,1613828,Naila Sari,Bogor,Jawa Barat,Female,25-34
+CUST0525,2,Repeat Customer,1338083,Kirana Hutapea,Bogor,Jawa Barat,Female,18-24
+CUST0527,3,Repeat Customer,810618,Mega Kurniawan,Malang,Jawa Timur,Female,25-34
+CUST0528,2,Repeat Customer,1714000,Dimas Sari,Bandung,Jawa Barat,Male,25-34
+CUST0529,2,Repeat Customer,976000,Irfan Sinaga,Makassar,Sulawesi Selatan,Male,18-24
+CUST0530,2,Repeat Customer,1184679,Dani Halim,Manado,Sulawesi Utara,Male,35-44
+CUST0531,4,Repeat Customer,1007786,Hasan Kurniawan,Banjarmasin,Kalimantan Selatan,Male,18-24
+CUST0533,1,One-Time Customer,777000,Surya Tanjung,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0535,1,One-Time Customer,699711,Nadia Hakim,Banjarmasin,Kalimantan Selatan,Female,45+
+CUST0536,5,Repeat Customer,2377496,Nadia Simbolon,Medan,Sumatera Utara,Female,35-44
+CUST0538,4,Repeat Customer,3636000,Eko Saputra,Depok,Jawa Barat,Male,35-44
+CUST0539,3,Repeat Customer,406526,Aulia Fauzi,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0540,2,Repeat Customer,2063963,Aulia Putri,Bekasi,Jawa Barat,Female,45+
+CUST0541,1,One-Time Customer,59000,Siti Utami,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0542,1,One-Time Customer,399000,Rio Kurniawan,Semarang,Jawa Tengah,Male,18-24
+CUST0544,3,Repeat Customer,840141,Sari Iskandar,Manado,Sulawesi Utara,Female,18-24
+CUST0545,2,Repeat Customer,903000,Putri Lestari,Balikpapan,Kalimantan Timur,Female,18-24
+CUST0546,1,One-Time Customer,748000,Nabila Setiawan,Palembang,Sumatera Selatan,Female,25-34
+CUST0547,4,Repeat Customer,1332728,Selvi Putri,Semarang,Jawa Tengah,Female,25-34
+CUST0548,1,One-Time Customer,310555,Vania Santoso,Bekasi,Jawa Barat,Female,35-44
+CUST0549,2,Repeat Customer,784039,Anggi Hidayat,Bekasi,Jawa Barat,Female,18-24
+CUST0550,4,Repeat Customer,2717646,Selvi Setiawan,Depok,Jawa Barat,Female,25-34
+CUST0551,2,Repeat Customer,585000,Olivia Cahyani,Banjarmasin,Kalimantan Selatan,Female,25-34
+CUST0552,2,Repeat Customer,966000,Siti Utami,Padang,Sumatera Barat,Female,18-24
+CUST0553,3,Repeat Customer,1300940,Agus Lestari,Malang,Jawa Timur,Male,25-34
+CUST0554,2,Repeat Customer,1484000,Siti Hutapea,Semarang,Jawa Tengah,Female,25-34
+CUST0555,1,One-Time Customer,508000,Putri Hasanah,Bogor,Jawa Barat,Female,18-24
+CUST0556,3,Repeat Customer,753520,Sri Manurung,Depok,Jawa Barat,Female,25-34
+CUST0557,3,Repeat Customer,1775183,Budi Ramadhan,Tangerang,Banten,Male,45+
+CUST0558,4,Repeat Customer,2026646,Yuli Wardani,Denpasar,Bali,Female,18-24
+CUST0559,2,Repeat Customer,792560,Rendi Kurniawan,Bogor,Jawa Barat,Male,18-24
+CUST0560,1,One-Time Customer,462733,Wulan Permata,Semarang,Jawa Tengah,Female,25-34
+CUST0561,3,Repeat Customer,1773793,Anggi Setiawan,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0563,1,One-Time Customer,471502,Aji Pratama,Yogyakarta,Di Yogyakarta,Male,25-34
+CUST0564,1,One-Time Customer,548000,Sonia Nugroho,Bogor,Jawa Barat,Female,25-34
+CUST0565,4,Repeat Customer,3486860,Zahra Putri,Banjarmasin,Kalimantan Selatan,Female,25-34
+CUST0566,7,Repeat Customer,1370000,Tika Hartono,Malang,Jawa Timur,Female,35-44
+CUST0567,3,Repeat Customer,2860000,Olivia Lestari,Pekanbaru,Riau,Female,25-34
+CUST0569,1,One-Time Customer,99000,Vera Halim,Pekanbaru,Riau,Female,35-44
+CUST0570,2,Repeat Customer,839737,Mega Tanjung,Makassar,Sulawesi Selatan,Female,25-34
+CUST0571,5,Repeat Customer,2557563,Teguh Ginting,Manado,Sulawesi Utara,Male,25-34
+CUST0572,1,One-Time Customer,138000,Rani Santoso,Semarang,Jawa Tengah,Female,25-34
+CUST0573,1,One-Time Customer,75782,Vivi Setiawan,Bogor,Jawa Barat,Female,35-44
+CUST0574,3,Repeat Customer,1849000,Fitri Lestari,Padang,Sumatera Barat,Female,18-24
+CUST0575,2,Repeat Customer,803474,Rio Hidayat,Bandung,Jawa Barat,Male,25-34
+CUST0576,3,Repeat Customer,2111000,Nanda Yulianti,Manado,Sulawesi Utara,Male,25-34
+CUST0577,2,Repeat Customer,657000,Hadi Maharani,Tangerang,Banten,Male,35-44
+CUST0578,1,One-Time Customer,49000,Vera Putri,Depok,Jawa Barat,Female,35-44
+CUST0579,3,Repeat Customer,939684,Aditya Pratama,Palembang,Sumatera Selatan,Male,18-24
+CUST0580,1,One-Time Customer,129000,Reza Maharani,Denpasar,Bali,Male,25-34
+CUST0581,1,One-Time Customer,552413,Fatimah Pratama,Jakarta,Dki Jakarta,Female,35-44
+CUST0583,1,One-Time Customer,463224,Mega Siregar,Medan,Sumatera Utara,Female,18-24
+CUST0584,1,One-Time Customer,1083935,Mira Saputra,Tangerang,Banten,Female,18-24
+CUST0585,3,Repeat Customer,2086869,Maya Utami,Makassar,Sulawesi Selatan,Female,18-24
+CUST0586,1,One-Time Customer,158895,Rian Putri,Manado,Sulawesi Utara,Male,45+
+CUST0587,1,One-Time Customer,1095000,Gita Kurniawan,Malang,Jawa Timur,Female,18-24
+CUST0588,3,Repeat Customer,643552,Sri Suryadi,Jakarta,Dki Jakarta,Female,35-44
+CUST0589,1,One-Time Customer,782837,Anggi Susanti,Jakarta,Dki Jakarta,Female,35-44
+CUST0590,3,Repeat Customer,547955,Sari Setiawan,Bandung,Jawa Barat,Female,35-44
+CUST0591,3,Repeat Customer,1361827,Hasna Permata,Pekanbaru,Riau,Female,45+
+CUST0592,3,Repeat Customer,1213866,Anggun Maharani,Bandung,Jawa Barat,Female,25-34
+CUST0593,3,Repeat Customer,759717,Hasna Wardani,Bekasi,Jawa Barat,Female,35-44
+CUST0594,5,Repeat Customer,2405208,Sari Saputra,Malang,Jawa Timur,Female,45+
+CUST0595,4,Repeat Customer,1814526,Sri Kurniawan,Surabaya,Jawa Timur,Female,25-34
+CUST0597,2,Repeat Customer,1185000,Budi Kurniawan,Bogor,Jawa Barat,Male,35-44
+CUST0598,4,Repeat Customer,1172100,Mawar Saputri,Depok,Jawa Barat,Female,25-34
+CUST0599,3,Repeat Customer,743179,Indra Saputra,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0600,1,One-Time Customer,1105691,Aulia Kurniawan,Pontianak,Kalimantan Barat,Female,35-44
+CUST0602,2,Repeat Customer,1234451,Satrio Sari,Bekasi,Jawa Barat,Male,25-34
+CUST0603,2,Repeat Customer,859328,Salsa Putri,Padang,Sumatera Barat,Female,25-34
+CUST0605,4,Repeat Customer,2211268,Arif Wijaya,Tangerang,Banten,Male,45+
+CUST0606,3,Repeat Customer,1948653,Putra Santoso,Bandung,Jawa Barat,Male,35-44
+CUST0607,1,One-Time Customer,166914,Anton Maharani,Bogor,Jawa Barat,Male,18-24
+CUST0608,4,Repeat Customer,1910782,Rendi Rahmawati,Manado,Sulawesi Utara,Male,18-24
+CUST0609,2,Repeat Customer,736000,Fatimah Saputri,Bekasi,Jawa Barat,Female,45+
+CUST0610,2,Repeat Customer,1484000,Rizky Ginting,Depok,Jawa Barat,Male,25-34
+CUST0611,3,Repeat Customer,2886702,Nabila Lestari,Makassar,Sulawesi Selatan,Female,35-44
+CUST0612,2,Repeat Customer,1060073,Vivi Anggraini,Pekanbaru,Riau,Female,35-44
+CUST0613,2,Repeat Customer,631129,Fatimah Saputri,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0614,2,Repeat Customer,1611561,Nabila Pohan,Medan,Sumatera Utara,Female,25-34
+CUST0615,3,Repeat Customer,1225272,Agus Yulianti,Semarang,Jawa Tengah,Male,18-24
+CUST0616,3,Repeat Customer,2957724,Irfan Santoso,Banjarmasin,Kalimantan Selatan,Male,25-34
+CUST0617,1,One-Time Customer,667000,Indah Iskandar,Padang,Sumatera Barat,Female,25-34
+CUST0618,5,Repeat Customer,3800310,Rio Ramadhan,Manado,Sulawesi Utara,Male,25-34
+CUST0619,2,Repeat Customer,756000,Aji Wardani,Yogyakarta,Di Yogyakarta,Male,35-44
+CUST0620,5,Repeat Customer,3678541,Melati Sembiring,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0621,2,Repeat Customer,1153000,Rizky Pratama,Malang,Jawa Timur,Male,45+
+CUST0623,3,Repeat Customer,497000,Alya Santoso,Manado,Sulawesi Utara,Female,25-34
+CUST0624,1,One-Time Customer,656902,Yoga Hidayat,Balikpapan,Kalimantan Timur,Male,18-24
+CUST0625,6,Repeat Customer,1748983,Ridho Permata,Jakarta,Dki Jakarta,Male,18-24
+CUST0626,3,Repeat Customer,1221596,Mawar Kurniawan,Jakarta,Dki Jakarta,Female,25-34
+CUST0627,2,Repeat Customer,2121000,Rendi Santoso,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0628,2,Repeat Customer,1088893,Reza Putri,Jakarta,Dki Jakarta,Male,25-34
+CUST0629,4,Repeat Customer,1747176,Wulan Anggraini,Padang,Sumatera Barat,Female,35-44
+CUST0630,1,One-Time Customer,825967,Tika Tanjung,Bandung,Jawa Barat,Female,45+
+CUST0631,3,Repeat Customer,706052,Ayu Nugroho,Medan,Sumatera Utara,Female,18-24
+CUST0632,4,Repeat Customer,1615666,Ratna Saputra,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0633,2,Repeat Customer,1127000,Wulan Siregar,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0634,1,One-Time Customer,1178512,Citra Susanti,Pekanbaru,Riau,Female,25-34
+CUST0635,4,Repeat Customer,1641000,Surya Yulianti,Semarang,Jawa Tengah,Male,25-34
+CUST0636,4,Repeat Customer,2125556,Pandu Kurniawan,Yogyakarta,Di Yogyakarta,Male,35-44
+CUST0637,1,One-Time Customer,399000,Selvi Sinaga,Makassar,Sulawesi Selatan,Female,25-34
+CUST0640,1,One-Time Customer,158000,Yoga Pohan,Denpasar,Bali,Male,35-44
+CUST0641,2,Repeat Customer,559668,Hadi Tanjung,Medan,Sumatera Utara,Male,25-34
+CUST0642,2,Repeat Customer,477000,Sari Anggraini,Palembang,Sumatera Selatan,Female,25-34
+CUST0643,3,Repeat Customer,1549646,Lia Setiawan,Surabaya,Jawa Timur,Female,18-24
+CUST0644,1,One-Time Customer,276604,Iqbal Fauzi,Medan,Sumatera Utara,Male,35-44
+CUST0645,3,Repeat Customer,1175022,Raka Lestari,Manado,Sulawesi Utara,Male,18-24
+CUST0646,3,Repeat Customer,1243207,Vania Utami,Malang,Jawa Timur,Female,45+
+CUST0647,2,Repeat Customer,987552,Hasna Anggraini,Bogor,Jawa Barat,Female,25-34
+CUST0648,1,One-Time Customer,1324260,Aulia Wijaya,Balikpapan,Kalimantan Timur,Female,45+
+CUST0649,1,One-Time Customer,329000,Sonia Siregar,Semarang,Jawa Tengah,Female,35-44
+CUST0650,1,One-Time Customer,118000,Dion Simbolon,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0651,4,Repeat Customer,3274334,Sri Anggraini,Pontianak,Kalimantan Barat,Female,25-34
+CUST0652,2,Repeat Customer,281029,Hasan Hakim,Denpasar,Bali,Male,25-34
+CUST0653,3,Repeat Customer,1917008,Raka Sari,Denpasar,Bali,Male,25-34
+CUST0654,1,One-Time Customer,208000,Daffa Iskandar,Yogyakarta,Di Yogyakarta,Male,18-24
+CUST0655,3,Repeat Customer,1434000,Hasna Wardani,Bogor,Jawa Barat,Female,25-34
+CUST0657,2,Repeat Customer,1526225,Indah Utami,Padang,Sumatera Barat,Female,25-34
+CUST0658,2,Repeat Customer,914787,Anggi Setiawan,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0659,4,Repeat Customer,836735,Andi Hartono,Palembang,Sumatera Selatan,Male,45+
+CUST0660,4,Repeat Customer,1422550,Putri Cahyani,Pontianak,Kalimantan Barat,Female,35-44
+CUST0662,1,One-Time Customer,478000,Selvi Pohan,Tangerang,Banten,Female,25-34
+CUST0663,3,Repeat Customer,1422527,Mega Utami,Balikpapan,Kalimantan Timur,Female,35-44
+CUST0664,2,Repeat Customer,1587280,Tania Halim,Balikpapan,Kalimantan Timur,Female,45+
+CUST0665,7,Repeat Customer,2162709,Agus Aprilia,Surabaya,Jawa Timur,Male,18-24
+CUST0666,1,One-Time Customer,214578,Dimas Saputri,Jakarta,Dki Jakarta,Male,25-34
+CUST0667,1,One-Time Customer,617000,Putri Saputra,Bekasi,Jawa Barat,Female,35-44
+CUST0668,2,Repeat Customer,975000,Wahyu Kurniawan,Padang,Sumatera Barat,Male,35-44
+CUST0669,2,Repeat Customer,1380758,Risma Siregar,Depok,Jawa Barat,Female,18-24
+CUST0670,2,Repeat Customer,2603000,Ratna Tarigan,Bogor,Jawa Barat,Female,25-34
+CUST0671,3,Repeat Customer,1638507,Kirana Utami,Malang,Jawa Timur,Female,25-34
+CUST0672,1,One-Time Customer,229000,Eko Suryadi,Malang,Jawa Timur,Male,45+
+CUST0673,2,Repeat Customer,1636125,Aditya Siregar,Makassar,Sulawesi Selatan,Male,25-34
+CUST0674,1,One-Time Customer,500298,Tania Pratama,Banjarmasin,Kalimantan Selatan,Female,35-44
+CUST0675,1,One-Time Customer,1198000,Surya Sinaga,Pontianak,Kalimantan Barat,Male,45+
+CUST0676,2,Repeat Customer,657000,Indra Santoso,Yogyakarta,Di Yogyakarta,Male,25-34
+CUST0677,5,Repeat Customer,2112640,Rina Hidayat,Surabaya,Jawa Timur,Female,35-44
+CUST0678,1,One-Time Customer,846000,Gita Lestari,Surabaya,Jawa Timur,Female,45+
+CUST0679,3,Repeat Customer,1291619,Anggi Tarigan,Padang,Sumatera Barat,Female,18-24
+CUST0680,1,One-Time Customer,757000,Karina Sembiring,Bekasi,Jawa Barat,Female,45+
+CUST0681,3,Repeat Customer,971220,Alya Pohan,Surabaya,Jawa Timur,Female,35-44
+CUST0682,4,Repeat Customer,2346564,Kirana Tanjung,Bandung,Jawa Barat,Female,25-34
+CUST0683,3,Repeat Customer,1509000,Fatimah Sinaga,Semarang,Jawa Tengah,Female,45+
+CUST0684,1,One-Time Customer,297000,Mawar Maharani,Pontianak,Kalimantan Barat,Female,25-34
+CUST0685,3,Repeat Customer,2545317,Adrian Putri,Padang,Sumatera Barat,Male,25-34
+CUST0686,3,Repeat Customer,2483000,Aji Santoso,Semarang,Jawa Tengah,Male,45+
+CUST0688,4,Repeat Customer,993140,Surya Kurniawan,Malang,Jawa Timur,Male,35-44
+CUST0689,2,Repeat Customer,1289971,Yuli Cahyani,Medan,Sumatera Utara,Female,25-34
+CUST0690,3,Repeat Customer,1973000,Eko Fauzi,Padang,Sumatera Barat,Male,45+
+CUST0691,5,Repeat Customer,938466,Kevin Iskandar,Jakarta,Dki Jakarta,Male,18-24
+CUST0692,1,One-Time Customer,998000,Kirana Hutapea,Depok,Jawa Barat,Female,35-44
+CUST0694,3,Repeat Customer,1146000,Toni Tarigan,Jakarta,Dki Jakarta,Male,35-44
+CUST0696,2,Repeat Customer,1324391,Rendi Hakim,Medan,Sumatera Utara,Male,25-34
+CUST0697,3,Repeat Customer,1666944,Bambang Hidayat,Bandung,Jawa Barat,Male,35-44
+CUST0698,1,One-Time Customer,748000,Nadia Sinaga,Pekanbaru,Riau,Female,25-34
+CUST0699,3,Repeat Customer,2437617,Naila Hakim,Medan,Sumatera Utara,Female,18-24
+CUST0700,1,One-Time Customer,188220,Rina Lestari,Banjarmasin,Kalimantan Selatan,Female,45+
+CUST0701,4,Repeat Customer,1694556,Sari Rahmawati,Pontianak,Kalimantan Barat,Female,35-44
+CUST0702,1,One-Time Customer,118000,Teguh Saputri,Manado,Sulawesi Utara,Male,25-34
+CUST0703,3,Repeat Customer,1195762,Maulana Hutapea,Semarang,Jawa Tengah,Male,25-34
+CUST0704,1,One-Time Customer,398000,Nadia Kurniawan,Bandung,Jawa Barat,Female,25-34
+CUST0705,2,Repeat Customer,2190196,Fitri Santoso,Semarang,Jawa Tengah,Female,35-44
+CUST0706,1,One-Time Customer,626000,Tika Halim,Malang,Jawa Timur,Female,25-34
+CUST0707,1,One-Time Customer,549000,Budi Simbolon,Medan,Sumatera Utara,Male,35-44
+CUST0708,4,Repeat Customer,768970,Sonia Aprilia,Medan,Sumatera Utara,Female,45+
+CUST0709,2,Repeat Customer,657000,Diah Setiawan,Jakarta,Dki Jakarta,Female,35-44
+CUST0710,2,Repeat Customer,1536000,Sri Kurniawan,Manado,Sulawesi Utara,Female,18-24
+CUST0711,1,One-Time Customer,519536,Indah Sari,Bekasi,Jawa Barat,Female,18-24
+CUST0712,2,Repeat Customer,1385000,Yuli Nugroho,Padang,Sumatera Barat,Female,18-24
+CUST0714,2,Repeat Customer,503663,Vera Iskandar,Medan,Sumatera Utara,Female,18-24
+CUST0715,2,Repeat Customer,657000,Tika Wijaya,Semarang,Jawa Tengah,Female,25-34
+CUST0716,2,Repeat Customer,696000,Salsa Setiawan,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0717,3,Repeat Customer,694454,Bagus Tanjung,Palembang,Sumatera Selatan,Male,25-34
+CUST0718,2,Repeat Customer,1521598,Gita Iskandar,Pontianak,Kalimantan Barat,Female,35-44
+CUST0720,2,Repeat Customer,298000,Dewi Wardani,Palembang,Sumatera Selatan,Female,18-24
+CUST0721,3,Repeat Customer,2782627,Irfan Fauzi,Tangerang,Banten,Male,25-34
+CUST0722,4,Repeat Customer,995483,Kirana Simbolon,Jakarta,Dki Jakarta,Female,45+
+CUST0723,2,Repeat Customer,1533274,Satrio Anggraini,Medan,Sumatera Utara,Male,35-44
+CUST0724,3,Repeat Customer,1589947,Rio Hutapea,Surabaya,Jawa Timur,Male,25-34
+CUST0725,3,Repeat Customer,1190504,Gita Kurniawan,Makassar,Sulawesi Selatan,Female,45+
+CUST0726,4,Repeat Customer,1287369,Satrio Maharani,Medan,Sumatera Utara,Male,25-34
+CUST0727,3,Repeat Customer,903279,Bella Saputra,Semarang,Jawa Tengah,Female,25-34
+CUST0728,4,Repeat Customer,1329198,Diah Pratama,Malang,Jawa Timur,Female,25-34
+CUST0729,5,Repeat Customer,4189992,Arif Sari,Malang,Jawa Timur,Male,45+
+CUST0730,2,Repeat Customer,1326000,Mira Saputri,Padang,Sumatera Barat,Female,45+
+CUST0732,1,One-Time Customer,339076,Cinta Lestari,Bekasi,Jawa Barat,Female,18-24
+CUST0733,5,Repeat Customer,3073309,Hana Hasanah,Makassar,Sulawesi Selatan,Female,35-44
+CUST0734,3,Repeat Customer,1609489,Dimas Yulianti,Medan,Sumatera Utara,Male,18-24
+CUST0735,3,Repeat Customer,1804554,Hana Wijaya,Denpasar,Bali,Female,35-44
+CUST0736,2,Repeat Customer,2306728,Dani Kurniawan,Pekanbaru,Riau,Male,25-34
+CUST0737,2,Repeat Customer,317000,Aji Manurung,Malang,Jawa Timur,Male,18-24
+CUST0738,1,One-Time Customer,254965,Tania Yulianti,Jakarta,Dki Jakarta,Female,25-34
+CUST0739,1,One-Time Customer,599000,Dion Susanti,Bekasi,Jawa Barat,Male,35-44
+CUST0740,2,Repeat Customer,1104081,Bayu Yulianti,Denpasar,Bali,Male,35-44
+CUST0741,2,Repeat Customer,885000,Aji Aprilia,Pekanbaru,Riau,Male,35-44
+CUST0742,2,Repeat Customer,633978,Adrian Suryadi,Bandung,Jawa Barat,Male,35-44
+CUST0743,1,One-Time Customer,576000,Andi Wardani,Pekanbaru,Riau,Male,35-44
+CUST0744,3,Repeat Customer,1385000,Ratna Maharani,Jakarta,Dki Jakarta,Female,35-44
+CUST0745,2,Repeat Customer,423756,Joko Hasanah,Tangerang,Banten,Male,35-44
+CUST0746,3,Repeat Customer,2523000,Joko Sinaga,Pekanbaru,Riau,Male,18-24
+CUST0747,4,Repeat Customer,2893684,Dewi Hartono,Palembang,Sumatera Selatan,Female,45+
+CUST0748,1,One-Time Customer,236000,Cinta Cahyani,Denpasar,Bali,Female,25-34
+CUST0749,2,Repeat Customer,398000,Fajar Susanti,Tangerang,Banten,Male,45+
+CUST0750,5,Repeat Customer,3042295,Dani Nugroho,Bogor,Jawa Barat,Male,25-34
+CUST0751,3,Repeat Customer,836842,Doni Wijaya,Depok,Jawa Barat,Male,18-24
+CUST0752,1,One-Time Customer,1176360,Hasan Lestari,Palembang,Sumatera Selatan,Male,25-34
+CUST0753,1,One-Time Customer,298000,Ratna Sembiring,Surabaya,Jawa Timur,Female,25-34
+CUST0754,5,Repeat Customer,3573921,Hadi Fauzi,Tangerang,Banten,Male,25-34
+CUST0755,2,Repeat Customer,1538451,Kirana Tarigan,Tangerang,Banten,Female,35-44
+CUST0756,1,One-Time Customer,694000,Bayu Nugroho,Surabaya,Jawa Timur,Male,35-44
+CUST0757,4,Repeat Customer,2495166,Anton Kurniawan,Pontianak,Kalimantan Barat,Male,25-34
+CUST0758,3,Repeat Customer,597024,Rendi Sinaga,Tangerang,Banten,Male,45+
+CUST0759,5,Repeat Customer,3587180,Surya Hakim,Malang,Jawa Timur,Male,25-34
+CUST0760,1,One-Time Customer,75871,Irfan Hutapea,Balikpapan,Kalimantan Timur,Male,25-34
+CUST0761,1,One-Time Customer,456339,Gita Rahmawati,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0762,2,Repeat Customer,2212000,Vivi Pratama,Balikpapan,Kalimantan Timur,Female,45+
+CUST0763,1,One-Time Customer,625000,Citra Rahmawati,Surabaya,Jawa Timur,Female,35-44
+CUST0764,1,One-Time Customer,138363,Aji Putri,Pontianak,Kalimantan Barat,Male,25-34
+CUST0765,1,One-Time Customer,654092,Selvi Kurniawan,Makassar,Sulawesi Selatan,Female,25-34
+CUST0767,5,Repeat Customer,2780481,Dion Siregar,Palembang,Sumatera Selatan,Male,25-34
+CUST0768,4,Repeat Customer,1710287,Hasan Halim,Denpasar,Bali,Male,35-44
+CUST0770,3,Repeat Customer,1436839,Kirana Pohan,Makassar,Sulawesi Selatan,Female,25-34
+CUST0771,4,Repeat Customer,1971000,Nadia Kurniawan,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0772,2,Repeat Customer,1456599,Ferdi Pohan,Bogor,Jawa Barat,Male,18-24
+CUST0773,1,One-Time Customer,157742,Hadi Fauzi,Bogor,Jawa Barat,Male,25-34
+CUST0774,1,One-Time Customer,1182565,Wahyu Pohan,Padang,Sumatera Barat,Male,25-34
+CUST0776,2,Repeat Customer,1034383,Nadia Saputri,Bekasi,Jawa Barat,Female,25-34
+CUST0777,5,Repeat Customer,1439483,Yuli Rahmawati,Medan,Sumatera Utara,Female,25-34
+CUST0778,2,Repeat Customer,732454,Rani Wijaya,Malang,Jawa Timur,Female,25-34
+CUST0779,4,Repeat Customer,1888230,Wulan Simbolon,Medan,Sumatera Utara,Female,35-44
+CUST0780,1,One-Time Customer,138000,Doni Hidayat,Medan,Sumatera Utara,Male,35-44
+CUST0781,1,One-Time Customer,587000,Melati Pratama,Yogyakarta,Di Yogyakarta,Female,25-34
+CUST0782,2,Repeat Customer,1056000,Rina Hutapea,Denpasar,Bali,Female,25-34
+CUST0783,3,Repeat Customer,1495496,Ridho Aprilia,Tangerang,Banten,Male,25-34
+CUST0784,4,Repeat Customer,993702,Nia Fauzi,Tangerang,Banten,Female,25-34
+CUST0785,1,One-Time Customer,177000,Hana Manurung,Balikpapan,Kalimantan Timur,Female,25-34
+CUST0786,2,Repeat Customer,587000,Cinta Sinaga,Bogor,Jawa Barat,Female,25-34
+CUST0787,3,Repeat Customer,974271,Fitri Kurniawan,Tangerang,Banten,Female,18-24
+CUST0788,1,One-Time Customer,28938,Fitri Ramadhan,Semarang,Jawa Tengah,Female,35-44
+CUST0789,4,Repeat Customer,2660165,Eko Wijaya,Palembang,Sumatera Selatan,Male,25-34
+CUST0790,6,Repeat Customer,3084000,Anggun Iskandar,Balikpapan,Kalimantan Timur,Female,45+
+CUST0791,2,Repeat Customer,633700,Tania Iskandar,Semarang,Jawa Tengah,Female,25-34
+CUST0792,5,Repeat Customer,3965729,Putra Saputri,Palembang,Sumatera Selatan,Male,18-24
+CUST0793,1,One-Time Customer,549000,Cinta Ramadhan,Pekanbaru,Riau,Female,18-24
+CUST0794,4,Repeat Customer,3067634,Indah Nugroho,Pekanbaru,Riau,Female,35-44
+CUST0795,1,One-Time Customer,145972,Doni Setiawan,Jakarta,Dki Jakarta,Male,35-44
+CUST0797,3,Repeat Customer,2515024,Siti Maharani,Banjarmasin,Kalimantan Selatan,Female,18-24
+CUST0798,2,Repeat Customer,895000,Pandu Iskandar,Yogyakarta,Di Yogyakarta,Male,25-34
+CUST0800,4,Repeat Customer,1453616,Putri Saputra,Padang,Sumatera Barat,Female,18-24
