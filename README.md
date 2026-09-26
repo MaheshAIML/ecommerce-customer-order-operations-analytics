@@ -143,13 +143,14 @@ Ecommerce-Order-Shipping-Analytics/
 ## Tableau Dashboards
 
 ### Dashboard 1 — Executive Overview
-![Executive Overview](dashboard/dashboard_1_executive_overview.png)
+![Executive Overview](<img width="2882" height="1598" alt="Dashboard_1_Executive_Overview" src="https://github.com/user-attachments/assets/964ce545-93be-4498-9ee6-9e2b578aa10b" />)
 
 ### Dashboard 2 — Customer & Product Analysis
-![Customer Product Analysis](dashboard/dashboard_2_customer_product.png)
+![Customer Product Analysis](<img width="2882" height="1598" alt="Dashboard_2_Customer_Product_Analysis" src="https://github.com/user-attachments/assets/ae8a2e74-abbc-4266-b2d2-bf6582a446dc" />)
 
 ### Dashboard 3 — Operations & Shipping
-![Operations Shipping](dashboard/dashboard_3_operations_shipping.png)
+![Operations Shipping](<img width="2558" height="1598" alt="Dashboard_3_Operations_Analysis" src="https://github.com/user-attachments/assets/c565305a-c98c-4b28-a157-dec921462a80" />
+)
 
 
 ## Conclusion
